@@ -1,0 +1,12 @@
+/**
+ * Theme Name: wu19
+ * Theme URI:
+ * Description: The WordPress theme for wu19
+ * Version: 1.0.0
+ * Author: Maja Alin
+ * Author URI:
+ */
+
+html body {
+  background-color: tomato;
+}
